@@ -13,4 +13,3 @@ function broadcast(message) {
         userSocket.write(message);
     }
 }
-
