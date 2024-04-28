@@ -28,5 +28,6 @@ This is a simple terminal-based chat client written in JavaScript using Node.js.
 - Make sure to start the chat server before running the client. The client will attempt to connect to the server at 'localhost' on port 9999 by default. If your server is running on a different host or port, you may need to modify the client.js file accordingly.
 - This client code assumes a basic understanding of how to run JavaScript code using Node.js in a terminal environment.
 - This is a basic implementation and lacks features such as error handling, user authentication, and user interface enhancements. It's intended as a starting point for building more complex chat applications.
+- /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
